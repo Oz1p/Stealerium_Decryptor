@@ -1,3 +1,8 @@
+![image](https://github.com/Oz1p/Stealerium_Decryptor/assets/72811419/6c864849-85e3-4c86-8dcf-cbd4fb639e00)
+
+
+
+
 # How to use
 Open Stealerium stub with DnSpy
 
@@ -22,7 +27,5 @@ Then Copy Saltbytes and CryptKey
 ![image](https://github.com/Oz1p/Stealerium_Decryptor/assets/72811419/5a9df741-1d11-4149-a48d-4058f39b89eb)
 
 Now paste it into the programm and you are done!
-
-![image](https://github.com/Oz1p/Stealerium_Decryptor/assets/72811419/6c864849-85e3-4c86-8dcf-cbd4fb639e00)
 
 ![image](https://github.com/Oz1p/Stealerium_Decryptor/assets/72811419/6bcb14b0-a2e5-4927-b151-16669088aaf3)
